@@ -2,6 +2,7 @@
 Using Arduino and MPU9250+BMP180(BMP280) to create embedded IMU system 
 
 Library for MPU9250 - thanks to Jeff Rowberg jeff@rowberg.net, the MIT license
+
 Library for BMP180 - thanks to LG, LGPL license
 
 http://www.movsens.com
